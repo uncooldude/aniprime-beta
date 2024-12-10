@@ -27,7 +27,7 @@
 .button-prev:hover,
 .button-next:hover {
   background-color: #f3f2f7;
-  color: #383747;
+  color: #f3f2f7;
 }
 
 .button-prev::after {
