@@ -8,7 +8,7 @@
   font-weight: 400;
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #161621;
+  background-color: #FFFFFF;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -46,7 +46,7 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-  background: #23222c;
+  background: #161621;
 }
 
 ::-webkit-scrollbar-thumb {
