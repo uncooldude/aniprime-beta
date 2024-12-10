@@ -50,7 +50,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #65646a;
+  background: #b1bab3;
 }
 .scrollbar-hide::-webkit-scrollbar {
   display: none;
