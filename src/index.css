@@ -50,7 +50,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #091ab0;
+  background: #1f2124;  /*Scroll bar color*/
 }
 .scrollbar-hide::-webkit-scrollbar {
   display: none;
